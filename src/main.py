@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from typing import Literal, Optional
 import pandas as pd
 import streamlit as st
-from .docs_data import docs_data
+from docs_data import docs_data
 
 
  # <-- Importing from separate file
